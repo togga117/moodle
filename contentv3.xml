@@ -9,7 +9,7 @@
   <string role="key" value="_author"></string>
   <unicode value=""></unicode>
   <string role="key" value="_backgroundImg"></string>
-  <instance class="exe.engine.resource.Resource" reference="25">
+  <instance class="exe.engine.resource.Resource" reference="31">
    <dictionary>
     <string role="key" value="_idevice"></string>
     <none></none>
@@ -18,7 +18,7 @@
     <string role="key" value="_storageName"></string>
     <string value="pie_pagina_exelarning.png"></string>
     <string role="key" value="_userName"></string>
-    <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpesccap\\pie_pagina_exelarning.png"></string>
+    <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpn6nwgu\\pie_pagina_exelarning.png"></string>
     <string role="key" value="checksum"></string>
     <string value="888793e689216b6b69ef86ffef353955"></string>
     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -44,7 +44,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="1"></bool>
+  <bool value="0"></bool>
   <string role="key" value="_lang"></string>
   <unicode value="es"></unicode>
   <string role="key" value="_learningResourceType"></string>
@@ -124,7 +124,7 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;p&gt;&lt;img src=&quot;resources/campus_moodle.png&quot; alt=&quot;Descripción: D:\campus moodle.png&quot; width=&quot;1353&quot; height=&quot;691&quot; class=&quot;img-fluid atto_image_button_text-bottom&quot; /&gt;&lt;span lang=&quot;ES&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;span lang=&quot;ES&quot;&gt;1. Ingresar a Play Store y en el buscador, escribir: Moodle, deberá visualizar la imagen,&lt;/span&gt;&lt;/h2&gt;
 &lt;h2&gt;&lt;span lang=&quot;ES&quot;&gt;Seleccionar la primera opción y luego seleccionar la opción: Instalar.&lt;/span&gt;&lt;/h2&gt;
-&lt;img src=&quot;resources/1.jpeg&quot; alt=&quot;1&quot; width=&quot;392&quot; height=&quot;502&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_middle&quot; /&gt;&lt;br /&gt;&lt;img src=&quot;https://ejemplocurso1.moodlecloud.com/pluginfile.php/62/mod_page/content/4/2.jpeg&quot; alt=&quot;2&quot; width=&quot;400&quot; height=&quot;443&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_text-bottom&quot; /&gt;&lt;br /&gt;&lt;img src=&quot;https://ejemplocurso1.moodlecloud.com/pluginfile.php/62/mod_page/content/4/WhatsApp%20Image%202021-03-21%20at%2020.19.41.jpeg&quot; alt=&quot;3&quot; width=&quot;400&quot; height=&quot;619&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_middle&quot; /&gt;&lt;/div&gt;
+&lt;img src=&quot;resources/1.jpeg&quot; alt=&quot;1&quot; width=&quot;392&quot; height=&quot;502&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_middle&quot; /&gt;&lt;br /&gt;&lt;img src=&quot;resources/2.jpeg&quot; alt=&quot;2&quot; width=&quot;372&quot; height=&quot;412&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_text-bottom&quot; /&gt;&lt;br /&gt;&lt;img src=&quot;resources/WhatsApp_Image_2021-03-21_at_20.19.41.jpeg&quot; alt=&quot;3&quot; width=&quot;356&quot; height=&quot;551&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_middle&quot; /&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -150,7 +150,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="161"></int>
+                 <int value="163"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -164,7 +164,7 @@ text through the text editing buttons associated with the field."></unicode>
                 </dictionary>
                </instance>
                <string role="key" value="_id"></string>
-               <unicode value="0_85.0"></unicode>
+               <unicode value="0_85.2"></unicode>
                <string role="key" value="_imageResource"></string>
                <instance class="exe.engine.resource.Resource" reference="5">
                 <dictionary>
@@ -173,9 +173,61 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_package"></string>
                  <reference key="1"></reference>
                  <string role="key" value="_storageName"></string>
+                 <string value="1.jpeg"></string>
+                 <string role="key" value="_userName"></string>
+                 <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpn6nwgu\\1.jpeg"></string>
+                 <string role="key" value="checksum"></string>
+                 <string value="5d5795f819c06a313cda49ad71d69870"></string>
+                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="warningMsg"></string>
+                 <string value=""></string>
+                </dictionary>
+               </instance>
+               <string role="key" value="_parent"></string>
+               <reference key="3"></reference>
+               <string role="key" value="_thumbnailResource"></string>
+               <none></none>
+               <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+               <int value="3"></int>
+               <string role="key" value="makeThumbnail"></string>
+               <bool value="0"></bool>
+              </dictionary>
+             </instance>
+             <instance class="exe.engine.galleryidevice.GalleryImage">
+              <dictionary>
+               <string role="key" value="_caption"></string>
+               <instance class="exe.engine.field.TextField">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <int value="164"></int>
+                 <string role="key" value="_idevice"></string>
+                 <none></none>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="content"></string>
+                 <string value=""></string>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                </dictionary>
+               </instance>
+               <string role="key" value="_id"></string>
+               <unicode value="0_85.3"></unicode>
+               <string role="key" value="_imageResource"></string>
+               <instance class="exe.engine.resource.Resource" reference="6">
+                <dictionary>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="2"></reference>
+                 <string role="key" value="_package"></string>
+                 <reference key="1"></reference>
+                 <string role="key" value="_storageName"></string>
                  <string value="campus_moodle.png"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\toga\\appdata\\local\\temp\\tmp7yyfqk.eXe\\previews\\allyourbase\\campus_moodle.png"></string>
+                 <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpn6nwgu\\campus_moodle.png"></string>
                  <string role="key" value="checksum"></string>
                  <string value="515bb26821f454bfd0e33f1fc6669620"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -202,7 +254,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="162"></int>
+                 <int value="168"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -216,20 +268,72 @@ text through the text editing buttons associated with the field."></unicode>
                 </dictionary>
                </instance>
                <string role="key" value="_id"></string>
-               <unicode value="0_85.1"></unicode>
+               <unicode value="0_85.4"></unicode>
                <string role="key" value="_imageResource"></string>
-               <instance class="exe.engine.resource.Resource" reference="6">
+               <instance class="exe.engine.resource.Resource" reference="7">
                 <dictionary>
                  <string role="key" value="_idevice"></string>
                  <reference key="2"></reference>
                  <string role="key" value="_package"></string>
                  <reference key="1"></reference>
                  <string role="key" value="_storageName"></string>
-                 <string value="1.jpeg"></string>
+                 <string value="2.jpeg"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\toga\\appdata\\local\\temp\\tmp7yyfqk.eXe\\previews\\allyourbase\\1.jpeg"></string>
+                 <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpbzjlod.eXe\\previews\\allyourbase\\2.jpeg"></string>
                  <string role="key" value="checksum"></string>
-                 <string value="5d5795f819c06a313cda49ad71d69870"></string>
+                 <string value="09b2992926638bc28ebe97c68ce590e0"></string>
+                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="warningMsg"></string>
+                 <string value=""></string>
+                </dictionary>
+               </instance>
+               <string role="key" value="_parent"></string>
+               <reference key="3"></reference>
+               <string role="key" value="_thumbnailResource"></string>
+               <none></none>
+               <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+               <int value="3"></int>
+               <string role="key" value="makeThumbnail"></string>
+               <bool value="0"></bool>
+              </dictionary>
+             </instance>
+             <instance class="exe.engine.galleryidevice.GalleryImage">
+              <dictionary>
+               <string role="key" value="_caption"></string>
+               <instance class="exe.engine.field.TextField">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <int value="169"></int>
+                 <string role="key" value="_idevice"></string>
+                 <none></none>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="content"></string>
+                 <string value=""></string>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                </dictionary>
+               </instance>
+               <string role="key" value="_id"></string>
+               <unicode value="0_85.5"></unicode>
+               <string role="key" value="_imageResource"></string>
+               <instance class="exe.engine.resource.Resource" reference="8">
+                <dictionary>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="2"></reference>
+                 <string role="key" value="_package"></string>
+                 <reference key="1"></reference>
+                 <string role="key" value="_storageName"></string>
+                 <string value="WhatsApp_Image_2021-03-21_at_20.19.41.jpeg"></string>
+                 <string role="key" value="_userName"></string>
+                 <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpbzjlod.eXe\\previews\\allyourbase\\WhatsApp_Image_2021-03-21_at_20.19.41.jpeg"></string>
+                 <string role="key" value="checksum"></string>
+                 <string value="5d6954f89141bbdeceee240c8e1fde88"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                  <int value="2"></int>
                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -256,7 +360,7 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="intlinks_to_anchors"></string>
           <dictionary></dictionary>
           <string role="key" value="nextImageId"></string>
-          <int value="2"></int>
+          <int value="6"></int>
           <string role="key" value="parentNode"></string>
           <reference key="4"></reference>
          </dictionary>
@@ -289,6 +393,8 @@ text through the text editing buttons associated with the field."></unicode>
         <list>
          <reference key="5"></reference>
          <reference key="6"></reference>
+         <reference key="7"></reference>
+         <reference key="8"></reference>
         </list>
         <string role="key" value="version"></string>
         <int value="0"></int>
@@ -309,13 +415,13 @@ text through the text editing buttons associated with the field."></unicode>
      <none></none>
      <string role="key" value="children"></string>
      <list>
-      <instance class="exe.engine.node.Node" reference="9">
+      <instance class="exe.engine.node.Node" reference="11">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Tarea1"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="7">
+         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="9">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Free Text"></unicode>
@@ -331,12 +437,12 @@ delivered."></unicode>
            <string role="key" value="childs"></string>
            <list></list>
            <string role="key" value="content"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="8">
+           <instance class="exe.engine.field.TextAreaField" reference="10">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="85"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="7"></reference>
+             <reference key="9"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Use this field to enter text. This 
 iDevice has no emphasis applied although limited formatting can be applied to 
@@ -374,8 +480,8 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;h3&gt;Los estudiantes también pueden regresar a su trabajo y re-hacerlo, o puede ser forzados a hacer click en un botón para enviar una versión final que ya no puede cambiarse.&lt;/h3&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;https://ejemplocurso1.moodlecloud.com/pluginfile.php/73/mod_assign/intro/2021-03-24_093803.png&quot; alt=&quot;&quot; width=&quot;1845&quot; height=&quot;633&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_text-bottom&quot; /&gt;&lt;/p&gt;
-&lt;h2 class=&quot;no-overflow&quot;&gt;&lt;img src=&quot;https://ejemplocurso1.moodlecloud.com/pluginfile.php/73/mod_assign/intro/2021-03-24_094457.png&quot; alt=&quot;&quot; width=&quot;1845&quot; height=&quot;700&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_text-bottom&quot; /&gt;&lt;/h2&gt;"></unicode>
+&lt;p&gt;&lt;img src=&quot;resources/2021-03-24_093803.png&quot; alt=&quot;12&quot; width=&quot;1845&quot; height=&quot;633&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_text-bottom&quot; /&gt;&lt;/p&gt;
+&lt;h2 class=&quot;no-overflow&quot;&gt;&lt;img src=&quot;resources/2021-03-24_094457.png&quot; alt=&quot;13&quot; width=&quot;1845&quot; height=&quot;700&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_text-bottom&quot; /&gt;&lt;/h2&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -388,17 +494,122 @@ text through the text editing buttons associated with the field."></unicode>
              <instance class="exe.engine.galleryidevice.GalleryImages">
               <dictionary>
                <string role="key" value=".listitems"></string>
-               <list></list>
+               <list>
+                <instance class="exe.engine.galleryidevice.GalleryImage">
+                 <dictionary>
+                  <string role="key" value="_caption"></string>
+                  <instance class="exe.engine.field.TextField">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <int value="170"></int>
+                    <string role="key" value="_idevice"></string>
+                    <none></none>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="content"></string>
+                    <string value=""></string>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                   </dictionary>
+                  </instance>
+                  <string role="key" value="_id"></string>
+                  <unicode value="1_85.0"></unicode>
+                  <string role="key" value="_imageResource"></string>
+                  <instance class="exe.engine.resource.Resource" reference="12">
+                   <dictionary>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="9"></reference>
+                    <string role="key" value="_package"></string>
+                    <reference key="1"></reference>
+                    <string role="key" value="_storageName"></string>
+                    <string value="2021-03-24_093803.png"></string>
+                    <string role="key" value="_userName"></string>
+                    <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpbzjlod.eXe\\previews\\allyourbase\\2021-03-24_093803.png"></string>
+                    <string role="key" value="checksum"></string>
+                    <string value="783a91f8bdee6168379266d3db84b68a"></string>
+                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="warningMsg"></string>
+                    <string value=""></string>
+                   </dictionary>
+                  </instance>
+                  <string role="key" value="_parent"></string>
+                  <reference key="10"></reference>
+                  <string role="key" value="_thumbnailResource"></string>
+                  <none></none>
+                  <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                  <int value="3"></int>
+                  <string role="key" value="makeThumbnail"></string>
+                  <bool value="0"></bool>
+                 </dictionary>
+                </instance>
+                <instance class="exe.engine.galleryidevice.GalleryImage">
+                 <dictionary>
+                  <string role="key" value="_caption"></string>
+                  <instance class="exe.engine.field.TextField">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <int value="171"></int>
+                    <string role="key" value="_idevice"></string>
+                    <none></none>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="content"></string>
+                    <string value=""></string>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                   </dictionary>
+                  </instance>
+                  <string role="key" value="_id"></string>
+                  <unicode value="1_85.1"></unicode>
+                  <string role="key" value="_imageResource"></string>
+                  <instance class="exe.engine.resource.Resource" reference="13">
+                   <dictionary>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="9"></reference>
+                    <string role="key" value="_package"></string>
+                    <reference key="1"></reference>
+                    <string role="key" value="_storageName"></string>
+                    <string value="2021-03-24_094457.png"></string>
+                    <string role="key" value="_userName"></string>
+                    <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpbzjlod.eXe\\previews\\allyourbase\\2021-03-24_094457.png"></string>
+                    <string role="key" value="checksum"></string>
+                    <string value="43feaf70ee740f5043cd10c5e50cce2a"></string>
+                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="warningMsg"></string>
+                    <string value=""></string>
+                   </dictionary>
+                  </instance>
+                  <string role="key" value="_parent"></string>
+                  <reference key="10"></reference>
+                  <string role="key" value="_thumbnailResource"></string>
+                  <none></none>
+                  <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                  <int value="3"></int>
+                  <string role="key" value="makeThumbnail"></string>
+                  <bool value="0"></bool>
+                 </dictionary>
+                </instance>
+               </list>
                <string role="key" value="idevice"></string>
-               <reference key="8"></reference>
+               <reference key="10"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="0"></int>
+             <int value="2"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="9"></reference>
+             <reference key="11"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -418,7 +629,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="parent"></string>
            <none></none>
            <string role="key" value="parentNode"></string>
-           <reference key="9"></reference>
+           <reference key="11"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="type"></string>
@@ -426,7 +637,10 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
-           <list></list>
+           <list>
+            <reference key="12"></reference>
+            <reference key="13"></reference>
+           </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
@@ -450,13 +664,13 @@ text through the text editing buttons associated with the field."></unicode>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="12">
+         <instance class="exe.engine.node.Node" reference="16">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Carpeta compartida en Google Drive"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="10">
+            <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="14">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Free Text"></unicode>
@@ -472,12 +686,12 @@ delivered."></unicode>
               <string role="key" value="childs"></string>
               <list></list>
               <string role="key" value="content"></string>
-              <instance class="exe.engine.field.TextAreaField" reference="11">
+              <instance class="exe.engine.field.TextAreaField" reference="15">
                <dictionary>
                 <string role="key" value="_id"></string>
                 <int value="85"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="10"></reference>
+                <reference key="14"></reference>
                 <string role="key" value="_instruc"></string>
                 <unicode value="Use this field to enter text. This 
 iDevice has no emphasis applied although limited formatting can be applied to 
@@ -528,7 +742,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="158"></int>
+                       <int value="165"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -542,18 +756,18 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="5_85.3"></unicode>
+                     <unicode value="5_85.6"></unicode>
                      <string role="key" value="_imageResource"></string>
-                     <instance class="exe.engine.resource.Resource" reference="13">
+                     <instance class="exe.engine.resource.Resource" reference="17">
                       <dictionary>
                        <string role="key" value="_idevice"></string>
-                       <reference key="10"></reference>
+                       <reference key="14"></reference>
                        <string role="key" value="_package"></string>
                        <reference key="1"></reference>
                        <string role="key" value="_storageName"></string>
                        <string value="img0.png"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpesccap\\img0.png"></string>
+                       <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpn6nwgu\\img0.png"></string>
                        <string role="key" value="checksum"></string>
                        <string value="c57cd54ecf9e84b9fb263b9dab8fb749"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -565,7 +779,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_parent"></string>
-                     <reference key="11"></reference>
+                     <reference key="15"></reference>
                      <string role="key" value="_thumbnailResource"></string>
                      <none></none>
                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -580,7 +794,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="159"></int>
+                       <int value="166"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -594,18 +808,18 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="5_85.4"></unicode>
+                     <unicode value="5_85.7"></unicode>
                      <string role="key" value="_imageResource"></string>
-                     <instance class="exe.engine.resource.Resource" reference="14">
+                     <instance class="exe.engine.resource.Resource" reference="18">
                       <dictionary>
                        <string role="key" value="_idevice"></string>
-                       <reference key="10"></reference>
+                       <reference key="14"></reference>
                        <string role="key" value="_package"></string>
                        <reference key="1"></reference>
                        <string role="key" value="_storageName"></string>
                        <string value="img1.png"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpesccap\\img1.png"></string>
+                       <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpn6nwgu\\img1.png"></string>
                        <string role="key" value="checksum"></string>
                        <string value="bd31a5dd7502013a40270b611b032b60"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -617,7 +831,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_parent"></string>
-                     <reference key="11"></reference>
+                     <reference key="15"></reference>
                      <string role="key" value="_thumbnailResource"></string>
                      <none></none>
                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -632,7 +846,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <instance class="exe.engine.field.TextField">
                       <dictionary>
                        <string role="key" value="_id"></string>
-                       <int value="160"></int>
+                       <int value="167"></int>
                        <string role="key" value="_idevice"></string>
                        <none></none>
                        <string role="key" value="_instruc"></string>
@@ -646,18 +860,18 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_id"></string>
-                     <unicode value="5_85.5"></unicode>
+                     <unicode value="5_85.8"></unicode>
                      <string role="key" value="_imageResource"></string>
-                     <instance class="exe.engine.resource.Resource" reference="15">
+                     <instance class="exe.engine.resource.Resource" reference="19">
                       <dictionary>
                        <string role="key" value="_idevice"></string>
-                       <reference key="10"></reference>
+                       <reference key="14"></reference>
                        <string role="key" value="_package"></string>
                        <reference key="1"></reference>
                        <string role="key" value="_storageName"></string>
                        <string value="img2.png"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpesccap\\img2.png"></string>
+                       <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpn6nwgu\\img2.png"></string>
                        <string role="key" value="checksum"></string>
                        <string value="b2d544a0075ceb962517063b0ddfb29a"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -669,7 +883,7 @@ text through the text editing buttons associated with the field."></unicode>
                       </dictionary>
                      </instance>
                      <string role="key" value="_parent"></string>
-                     <reference key="11"></reference>
+                     <reference key="15"></reference>
                      <string role="key" value="_thumbnailResource"></string>
                      <none></none>
                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -680,15 +894,15 @@ text through the text editing buttons associated with the field."></unicode>
                    </instance>
                   </list>
                   <string role="key" value="idevice"></string>
-                  <reference key="11"></reference>
+                  <reference key="15"></reference>
                  </dictionary>
                 </instance>
                 <string role="key" value="intlinks_to_anchors"></string>
                 <dictionary></dictionary>
                 <string role="key" value="nextImageId"></string>
-                <int value="6"></int>
+                <int value="9"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="12"></reference>
+                <reference key="16"></reference>
                </dictionary>
               </instance>
               <string role="key" value="edit"></string>
@@ -708,7 +922,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="parent"></string>
               <none></none>
               <string role="key" value="parentNode"></string>
-              <reference key="12"></reference>
+              <reference key="16"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="type"></string>
@@ -717,9 +931,9 @@ text through the text editing buttons associated with the field."></unicode>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="13"></reference>
-               <reference key="14"></reference>
-               <reference key="15"></reference>
+               <reference key="17"></reference>
+               <reference key="18"></reference>
+               <reference key="19"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
@@ -739,7 +953,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Inicio:Tarea1:Carpeta%20compartida%20en%20Google%20Drive"></string>
            <string role="key" value="parent"></string>
-           <reference key="9"></reference>
+           <reference key="11"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -749,13 +963,13 @@ text through the text editing buttons associated with the field."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="18">
+      <instance class="exe.engine.node.Node" reference="22">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Foro del curso"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="16">
+         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="20">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Free Text"></unicode>
@@ -771,12 +985,12 @@ delivered."></unicode>
            <string role="key" value="childs"></string>
            <list></list>
            <string role="key" value="content"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="17">
+           <instance class="exe.engine.field.TextAreaField" reference="21">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="85"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="16"></reference>
+             <reference key="20"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Use this field to enter text. This 
 iDevice has no emphasis applied although limited formatting can be applied to 
@@ -853,7 +1067,7 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;h3&gt;&lt;span id=&quot;Foro_de_Novedades&quot;&gt;Foro de Novedades&lt;/span&gt;&lt;/h3&gt;
 &lt;h3&gt;Los cursos de Moodle automáticamente generan un Foro de Novedades que por defecto suscribe a todos los participantes del curso. El nombre del Foro de Novedades se puede cambiar a algo más apropiado, como ‘Anuncios importantes’ o similar. Esta es una característica útil y muchos usan este foro en un curso de Moodle para anunciar fechas de examen, horarios o cambios en exámenes, clases o seminarios, así como información importante sobre el trabajo del curso a lo largo del trimestre o anuncios especiales relacionados con acontecimientos.&lt;/h3&gt;
 &lt;h3&gt;Vista del debate del foro&lt;/h3&gt;
-&lt;img src=&quot;https://ejemplocurso1.moodlecloud.com/pluginfile.php/74/mod_forum/intro/2021-03-24_104736.png&quot; alt=&quot;&quot; width=&quot;1840&quot; height=&quot;551&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_text-bottom&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;img src=&quot;resources/2021-03-24_104736.png&quot; alt=&quot;14&quot; width=&quot;1840&quot; height=&quot;551&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_text-bottom&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
 &lt;/div&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
@@ -867,17 +1081,70 @@ text through the text editing buttons associated with the field."></unicode>
              <instance class="exe.engine.galleryidevice.GalleryImages">
               <dictionary>
                <string role="key" value=".listitems"></string>
-               <list></list>
+               <list>
+                <instance class="exe.engine.galleryidevice.GalleryImage">
+                 <dictionary>
+                  <string role="key" value="_caption"></string>
+                  <instance class="exe.engine.field.TextField">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <int value="172"></int>
+                    <string role="key" value="_idevice"></string>
+                    <none></none>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="content"></string>
+                    <string value=""></string>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                   </dictionary>
+                  </instance>
+                  <string role="key" value="_id"></string>
+                  <unicode value="2_85.0"></unicode>
+                  <string role="key" value="_imageResource"></string>
+                  <instance class="exe.engine.resource.Resource" reference="23">
+                   <dictionary>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="20"></reference>
+                    <string role="key" value="_package"></string>
+                    <reference key="1"></reference>
+                    <string role="key" value="_storageName"></string>
+                    <string value="2021-03-24_104736.png"></string>
+                    <string role="key" value="_userName"></string>
+                    <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpbzjlod.eXe\\previews\\allyourbase\\2021-03-24_104736.png"></string>
+                    <string role="key" value="checksum"></string>
+                    <string value="06eb5abcf7eeaca6369f83aac6cbd2f4"></string>
+                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="warningMsg"></string>
+                    <string value=""></string>
+                   </dictionary>
+                  </instance>
+                  <string role="key" value="_parent"></string>
+                  <reference key="21"></reference>
+                  <string role="key" value="_thumbnailResource"></string>
+                  <none></none>
+                  <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                  <int value="3"></int>
+                  <string role="key" value="makeThumbnail"></string>
+                  <bool value="0"></bool>
+                 </dictionary>
+                </instance>
+               </list>
                <string role="key" value="idevice"></string>
-               <reference key="17"></reference>
+               <reference key="21"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="0"></int>
+             <int value="1"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="18"></reference>
+             <reference key="22"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -897,7 +1164,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="parent"></string>
            <none></none>
            <string role="key" value="parentNode"></string>
-           <reference key="18"></reference>
+           <reference key="22"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="type"></string>
@@ -905,7 +1172,9 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
-           <list></list>
+           <list>
+            <reference key="23"></reference>
+           </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
@@ -931,13 +1200,13 @@ text through the text editing buttons associated with the field."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="21">
+      <instance class="exe.engine.node.Node" reference="26">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Ejemplo wiki"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="19">
+         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="24">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Free Text"></unicode>
@@ -953,12 +1222,12 @@ delivered."></unicode>
            <string role="key" value="childs"></string>
            <list></list>
            <string role="key" value="content"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="20">
+           <instance class="exe.engine.field.TextAreaField" reference="25">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="85"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="19"></reference>
+             <reference key="24"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Use this field to enter text. This 
 iDevice has no emphasis applied although limited formatting can be applied to 
@@ -981,7 +1250,7 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;/div&gt;
 &lt;h3 class=&quot;box py-3 generalbox&quot;&gt;En Moodle, los wikis pueden ser una herramienta valiosa para el trabajo colaborativo. La clase entera puede editar junta un documento, creando un producto de la clase, o cada estudiante puede tener su propio wiki y trabajar en él con Usted (el maestro) y sus compañeros.&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;h3 class=&quot;box py-3 generalbox&quot;&gt;&lt;img src=&quot;https://ejemplocurso1.moodlecloud.com/pluginfile.php/75/mod_wiki/intro/2021-03-24_113201.png&quot; alt=&quot;&quot; width=&quot;1631&quot; height=&quot;358&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_text-bottom&quot; /&gt;&lt;/h3&gt;
+&lt;h3 class=&quot;box py-3 generalbox&quot;&gt;&lt;img src=&quot;resources/2021-03-24_113201.png&quot; alt=&quot;15&quot; width=&quot;1631&quot; height=&quot;358&quot; role=&quot;presentation&quot; class=&quot;img-fluid atto_image_button_text-bottom&quot; /&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h3&gt;La pestaña para &lt;b&gt;Ver&lt;/b&gt; en la parte superior, o el enlace del bloque de navegación, le permite a los usuarios mostrar y ver la página wiki.&lt;/h3&gt;
@@ -1016,17 +1285,70 @@ text through the text editing buttons associated with the field."></unicode>
              <instance class="exe.engine.galleryidevice.GalleryImages">
               <dictionary>
                <string role="key" value=".listitems"></string>
-               <list></list>
+               <list>
+                <instance class="exe.engine.galleryidevice.GalleryImage">
+                 <dictionary>
+                  <string role="key" value="_caption"></string>
+                  <instance class="exe.engine.field.TextField">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <int value="173"></int>
+                    <string role="key" value="_idevice"></string>
+                    <none></none>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="content"></string>
+                    <string value=""></string>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                   </dictionary>
+                  </instance>
+                  <string role="key" value="_id"></string>
+                  <unicode value="3_85.0"></unicode>
+                  <string role="key" value="_imageResource"></string>
+                  <instance class="exe.engine.resource.Resource" reference="27">
+                   <dictionary>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="24"></reference>
+                    <string role="key" value="_package"></string>
+                    <reference key="1"></reference>
+                    <string role="key" value="_storageName"></string>
+                    <string value="2021-03-24_113201.png"></string>
+                    <string role="key" value="_userName"></string>
+                    <string value="c:\\users\\toga\\appdata\\local\\temp\\tmpbzjlod.eXe\\previews\\allyourbase\\2021-03-24_113201.png"></string>
+                    <string role="key" value="checksum"></string>
+                    <string value="8d1a07373d2672a57642c5f253700b26"></string>
+                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="warningMsg"></string>
+                    <string value=""></string>
+                   </dictionary>
+                  </instance>
+                  <string role="key" value="_parent"></string>
+                  <reference key="25"></reference>
+                  <string role="key" value="_thumbnailResource"></string>
+                  <none></none>
+                  <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                  <int value="3"></int>
+                  <string role="key" value="makeThumbnail"></string>
+                  <bool value="0"></bool>
+                 </dictionary>
+                </instance>
+               </list>
                <string role="key" value="idevice"></string>
-               <reference key="20"></reference>
+               <reference key="25"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
              <dictionary></dictionary>
              <string role="key" value="nextImageId"></string>
-             <int value="0"></int>
+             <int value="1"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="21"></reference>
+             <reference key="26"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -1046,7 +1368,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="parent"></string>
            <none></none>
            <string role="key" value="parentNode"></string>
-           <reference key="21"></reference>
+           <reference key="26"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="type"></string>
@@ -1054,7 +1376,9 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
-           <list></list>
+           <list>
+            <reference key="27"></reference>
+           </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
@@ -1080,13 +1404,13 @@ text through the text editing buttons associated with the field."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="24">
+      <instance class="exe.engine.node.Node" reference="30">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Glosario del curso"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="22">
+         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="28">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Free Text"></unicode>
@@ -1102,12 +1426,12 @@ delivered."></unicode>
            <string role="key" value="childs"></string>
            <list></list>
            <string role="key" value="content"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="23">
+           <instance class="exe.engine.field.TextAreaField" reference="29">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="85"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="22"></reference>
+             <reference key="28"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Use this field to enter text. This 
 iDevice has no emphasis applied although limited formatting can be applied to 
@@ -1143,7 +1467,7 @@ text through the text editing buttons associated with the field."></unicode>
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="23"></reference>
+               <reference key="29"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -1151,7 +1475,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="24"></reference>
+             <reference key="30"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -1171,7 +1495,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="parent"></string>
            <none></none>
            <string role="key" value="parentNode"></string>
-           <reference key="24"></reference>
+           <reference key="30"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="type"></string>
@@ -1209,15 +1533,15 @@ text through the text editing buttons associated with the field."></unicode>
     </dictionary>
    </instance>
    <unicode role="key" value="1"></unicode>
-   <reference key="9"></reference>
+   <reference key="11"></reference>
    <unicode role="key" value="2"></unicode>
-   <reference key="18"></reference>
+   <reference key="22"></reference>
    <unicode role="key" value="3"></unicode>
-   <reference key="21"></reference>
+   <reference key="26"></reference>
    <unicode role="key" value="4"></unicode>
-   <reference key="24"></reference>
+   <reference key="30"></reference>
    <unicode role="key" value="5"></unicode>
-   <reference key="12"></reference>
+   <reference key="16"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -1228,7 +1552,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="compatibleWithVersion9"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="4"></reference>
+  <reference key="30"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -2192,29 +2516,53 @@ text through the text editing buttons associated with the field."></unicode>
   <string value=""></string>
   <string role="key" value="resources"></string>
   <dictionary>
-   <string role="key" value="515bb26821f454bfd0e33f1fc6669620"></string>
+   <string role="key" value="06eb5abcf7eeaca6369f83aac6cbd2f4"></string>
    <list>
-    <reference key="5"></reference>
+    <reference key="23"></reference>
    </list>
-   <string role="key" value="5d5795f819c06a313cda49ad71d69870"></string>
+   <string role="key" value="09b2992926638bc28ebe97c68ce590e0"></string>
+   <list>
+    <reference key="7"></reference>
+   </list>
+   <string role="key" value="43feaf70ee740f5043cd10c5e50cce2a"></string>
+   <list>
+    <reference key="13"></reference>
+   </list>
+   <string role="key" value="515bb26821f454bfd0e33f1fc6669620"></string>
    <list>
     <reference key="6"></reference>
    </list>
+   <string role="key" value="5d5795f819c06a313cda49ad71d69870"></string>
+   <list>
+    <reference key="5"></reference>
+   </list>
+   <string role="key" value="5d6954f89141bbdeceee240c8e1fde88"></string>
+   <list>
+    <reference key="8"></reference>
+   </list>
+   <string role="key" value="783a91f8bdee6168379266d3db84b68a"></string>
+   <list>
+    <reference key="12"></reference>
+   </list>
    <string role="key" value="888793e689216b6b69ef86ffef353955"></string>
    <list>
-    <reference key="25"></reference>
+    <reference key="31"></reference>
+   </list>
+   <string role="key" value="8d1a07373d2672a57642c5f253700b26"></string>
+   <list>
+    <reference key="27"></reference>
    </list>
    <string role="key" value="b2d544a0075ceb962517063b0ddfb29a"></string>
    <list>
-    <reference key="15"></reference>
+    <reference key="19"></reference>
    </list>
    <string role="key" value="bd31a5dd7502013a40270b611b032b60"></string>
    <list>
-    <reference key="14"></reference>
+    <reference key="18"></reference>
    </list>
    <string role="key" value="c57cd54ecf9e84b9fb263b9dab8fb749"></string>
    <list>
-    <reference key="13"></reference>
+    <reference key="17"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
